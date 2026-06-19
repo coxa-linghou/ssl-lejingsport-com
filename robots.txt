@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coxa-linghou.github.io/ssl-lejingsport-com/sitemap.xml
